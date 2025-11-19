@@ -42,7 +42,7 @@
             display: inline-block;
             margin-top: 20px;
             padding: 10px 20px;
-            background-color: #007bff;
+            background-color: #7fbdff;
             color: white;
             text-decoration: none;
             border-radius: 5px;
