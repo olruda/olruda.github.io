@@ -35,7 +35,7 @@
         p {
             font-size: 1.1rem;
             line-height: 1.6;
-            color: #7fbdff;
+            color: #555;
         }
 
         .button {
@@ -51,7 +51,7 @@
         }
 
         .button:hover {
-            background-color: #7fbdff;
+            background-color: #0056b3;
         }
     </style>
 </head>
