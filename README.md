@@ -35,7 +35,7 @@
         p {
             font-size: 1.1rem;
             line-height: 1.6;
-            color: #555;
+            color: #7fbdff;
         }
 
         .button {
